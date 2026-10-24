@@ -20,21 +20,15 @@ HTML 交互式课件可灵活用于多种教学场景，贯穿课前、课中、
 
 ### 3.1 安装并登录 WorkBuddy
 
-1. 首先，打开 WorkBuddy 官网 ([workbuddy.cn](https://www.workbuddy.cn/))，点击【立即下载 WorkBuddy】，下载 WorkBuddy 客户端。
+[1] 首先，打开 WorkBuddy 官网 ([workbuddy.cn](https://www.workbuddy.cn/))，点击【立即下载 WorkBuddy】，下载 WorkBuddy 客户端。
 
-<div align="center">
-   <img src="./images/workbuddy-download.webp" alt="下载 WorkBuddy" width="50%"/>
-   <p>下载 WorkBuddy</p>
-</div>
+![下载 WorkBuddy](./images/workbuddy-download.webp)
 
-2. 下载完成后，安装 WorkBuddy 客户端。
+[2] 下载完成后，安装 WorkBuddy 客户端。
 
-3. 安装完成后，打开并登录 WorkBuddy。
+[3] 安装完成后，打开并登录 WorkBuddy。
 
-<div align="center">
-   <img src="./images/workbuddy-interface.webp" alt="WorkBuddy 客户端界面" width="70%"/>
-   <p>WorkBuddy 客户端界面</p>
-</div>
+![WorkBuddy 客户端界面](./images/workbuddy-interface.webp)
 
 WorkBuddy 客户端初始界面左侧是任务侧边栏，中间为对话交互区；生成任务产物后，可在对话区右侧的成果预览区实时查看效果。
 
@@ -42,19 +36,13 @@ WorkBuddy 客户端初始界面左侧是任务侧边栏，中间为对话交互�
 
 点击【新建任务】，在【选择工作空间】栏选定对应工作空间，再为此任务挑选适配模型，请根据自身任务需求选择合适模型，本次演示我们选用腾讯混元【Hy3】模型。
 
-<div align="center">
-   <img src="./images/workbuddy-NewTask.webp" alt="WorkBuddy 新建任务" width="70%"/>
-   <p>WorkBuddy 新建任务</p>
-</div>
+![WorkBuddy 新建任务](./images/workbuddy-NewTask.webp)
 
 ### 3.3 输入提示词
 
 工作空间、模型等基础配置选择完成后，输入提示词，点击运行，WorkBuddy 就开始工作了。
 
-<div align="center">
-   <img src="./images/gougu-prompt.webp" alt="输入提示词" width="70%"/>
-   <p>输入提示词</p>
-</div>
+![输入提示词](./images/gougu-prompt.webp)
 
 本文以八年级数学《勾股定理》为演示案例，下方为完整提示词，制作同类课件可在此基础上参照修改。
 
@@ -117,17 +105,11 @@ WorkBuddy 客户端初始界面左侧是任务侧边栏，中间为对话交互�
 
 WorkBuddy 执行完成任务后，将输出产物：`八年级数学《勾股定理》.html`。本次按照提示词要求，仅生成单文件 HTML 课件，无需额外依赖资源，可直接用浏览器打开预览、使用。
 
-<div align="center">
-   <img src="./images/gougu-output.webp" alt="WorkBuddy 输出产物" width="70%"/>
-   <p>WorkBuddy 输出产物</p>
-</div>
+![WorkBuddy 输出产物](./images/gougu-output.webp)
 
 点击产物 `八年级数学《勾股定理》.html`，即可在右侧成果预览区直接查看交互式课件效果，实时验证页面的交互功能。
 
-<div align="center">
-   <img src="./images/gougu-html.webp" alt="HTML 交互式课件" width="70%"/>
-   <p>HTML 交互式课件</p>
-</div>
+![HTML 交互式课件](./images/gougu-html.webp)
 
 ### 3.5 继续调整
 
